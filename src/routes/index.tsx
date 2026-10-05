@@ -5,5 +5,5 @@ export const Route = createFileRoute('/')({
 });
 
 function HomePage() {
-  return <div className="flex min-h-screen items-center justify-center">Hello World</div>;
+  return <div className="flex min-h-screen items-center justify-center">Getting your app ready...</div>;
 }
